@@ -1,0 +1,7 @@
+Enrichment FDR,nGenes,Pathway Genes,Fold Enrichment,Pathway,URL,Genes
+1.05E-08,5,133,75.01611171,Path:dme03010 Ribosome,http://www.genome.jp/kegg-bin/show_pathway?dme03010 , RpL40  RpS16  RpS27A  RpL4  RpS18
+0.000912509,2,50,79.81714286,Path:dme04137 Mitophagy-animal,http://www.genome.jp/kegg-bin/show_pathway?dme04137 , RpL40  RpS27A
+0.002778112,2,107,37.29773031,Path:dme04120 Ubiquitin mediated proteolysis,http://www.genome.jp/kegg-bin/show_pathway?dme04120 , RpL40  RpS27A
+0.031963455,1,46,43.37888199,Path:dme00860 Porphyrin metabolism,http://www.genome.jp/kegg-bin/show_pathway?dme00860 , GluProRS
+0.031963455,1,42,47.51020408,Path:dme00970 Aminoacyl-tRNA biosynthesis,http://www.genome.jp/kegg-bin/show_pathway?dme00970 , GluProRS
+0.078899173,1,139,14.35560123,Path:dme01240 Biosynthesis of cofactors,http://www.genome.jp/kegg-bin/show_pathway?dme01240 , GluProRS

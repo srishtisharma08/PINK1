@@ -1,0 +1,8 @@
+Pasted,Symbol,Ensembl Gene ID,Entrez,Type,Species,Chr,Position (Mbp),Description,percentage_gc_content,transcript_count,genomeSpan,cds_length,transcript_length,FiveUTR,ThreeUTR,nExons
+FBPP0306837, RpL40,FBGN0003941,33629,protein_coding,Drosophila melanogaster,2L,4.227699,Ribosomal protein L40,47.39,6,863,NA,NA,NA,NA,2
+FBPP0079606, RpS27A,FBGN0003942,34420,protein_coding,Drosophila melanogaster,2L,10.408352,Ribosomal protein S27A,44.28,3,2105,NA,NA,NA,NA,3
+FBPP0074555, CG32533,FBGN0052533,32933,protein_coding,Drosophila melanogaster,X,19.474156,,54.09,8,5256,NA,NA,NA,NA,7
+FBPP0085585, RpS18,FBGN0010411,37292,protein_coding,Drosophila melanogaster,2R,20.263979,Ribosomal protein S18,49.89,6,870,NA,NA,NA,NA,4
+FBPP0309759, RpS16,FBGN0034743,37580,protein_coding,Drosophila melanogaster,2R,22.605745,Ribosomal protein S16,42.2,6,2251,NA,NA,NA,NA,6
+FBPP0083898, GluProRS,FBGN0005674,42834,protein_coding,Drosophila melanogaster,3R,23.952136,Glutamyl-prolyl-tRNA synthetase,49.41,6,6256,NA,NA,NA,NA,4
+FBPP0084617, RpL4,FBGN0003279,43349,protein_coding,Drosophila melanogaster,3R,27.922821,Ribosomal protein L4,53.38,3,2068,NA,NA,NA,NA,4
